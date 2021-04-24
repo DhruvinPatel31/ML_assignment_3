@@ -1,0 +1,12 @@
+Assignment-3 Question-4
+
+Time Complexity Analysis of K-class Logistic Regression 
+--> For Training, the overall time complexity of this step is O(M * N * n_iter * K)
+
+--> For Predicting, the overall time complexity of this step is O(M * N * K)
+
+
+Space Complexity Analysis of k-class Logistic Regression
+--> ForLearning/ Training, the overall space complexity of this step is O(M * N) + O(N * k) + O(M * k)
+
+--> For Predicting, the overall space complexity of this step is O(M * K) + O(N * K)
