@@ -1,0 +1,11 @@
+Assignment-3 Question-2
+
+Here are the obtained results for L1 and L2 type regularised logistic regression
+
+Regularized Logistic Regression (L1 type):
+theta =  [ 0.30164918  0.34414264 -0.09506886]
+Accuracy =  0.3333333333333333
+
+Regularized Logistic Regression (L2 type):
+theta =  [ 0.15901785  0.128856   -0.1665236 ]
+Accuracy =  0.3333333333333333

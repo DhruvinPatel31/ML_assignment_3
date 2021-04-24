@@ -1,0 +1,23 @@
+Assignment-3 Question-1
+
+Here are the obtained results of the following:
+a) Unregularised logistic regression (non-vectorised)
+b) Unregularised logistic regression (using Autograd)
+c) K=3 fold for breast cancer dataset
+
+Unregularized Logistic Regression (Gradient Descent):
+theta =  [ 1.24650699  1.47336633 -4.77120631]
+Accuracy =  0.7666666666666667
+
+Unregularized Logistic Regression (Autograd):
+theta =  [ 1.24377722  1.47514234 -4.76621475]
+Accuracy =  0.7666666666666667
+
+3-Fold Unregularized Logistic Regression:
+Test Fold-1
+Accuracy = 0.9417989417989417
+Test Fold-2
+Accuracy = 0.9788359788359788
+Test Fold-3
+Accuracy = 0.9523809523809523
+Average Accuracy = 0.9576719576719576
